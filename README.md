@@ -18,3 +18,7 @@ This application is made as a practice from Metropolia UAS's web-based applicati
 ## App Screenshots
 
 <img src="/assets/images/1.PNG" width="250"><img src="/assets/images/3.PNG" width="250"><img src="/assets/images/2.PNG" width="250">
+
+## Lottie Animation
+
+<img src="/assets/images/animation.gif" width="250">
