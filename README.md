@@ -21,4 +21,4 @@ This application is made as a practice from Metropolia UAS's web-based applicati
 
 ## Lottie Animation
 
-<img src="/assets/images/animation.gif" width="250">
+<img src="https://github.com/anniehuynh/ReactNativeApplication/blob/main/assets/images/animation.GIF" width="250">
