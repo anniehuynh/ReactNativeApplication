@@ -17,4 +17,4 @@ This application is made as a practice from Metropolia UAS's web-based applicati
 
 ## App Screenshots
 
-<img src="/assets/images/1.png" width="250"><img src="/assets/images/3.png" width="250"><img src="/assets/images/2.png" width="250">
+<img src="/assets/images/1.PNG" width="250"><img src="/assets/images/3.PNG" width="250"><img src="/assets/images/2.PNG" width="250">
